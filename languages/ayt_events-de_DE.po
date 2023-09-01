@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Events Newsletter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-23 19:32+0000\n"
+"PO-Revision-Date: 2023-08-29 11:41+0000\n"
+"Last-Translator: admin\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3\n"
+"X-Domain: ayt_events\n"
+"X-Loco-Template-Mode: pot,json"
+
+#: ayt_events.php:908
+msgid "-Select Date-"
+msgstr "-Datum wählen-"
+
+#: ayt_events.php:639
+msgid "-Select event-"
+msgstr "-Event auswählen"
+
+#: ayt_events.php:923
+msgid "-Select time-"
+msgstr "-Zeit wählen-"
+
+#: ayt_events.php:606 ayt_events.php:951 ayt_events.php:960
+msgid "-Select-"
+msgstr "-Auswählen-"
+
+#: ayt_events.php:181
+msgid "A link to a event"
+msgstr ""
+
+#: ayt_events.php:135
+msgid "A link to a event."
+msgstr ""
+
+#. Description of the plugin
+msgid "a plugin to create [EventsNewsletter]"
+msgstr ""
+
+#: ayt_events.php:115 ayt_events.php:169
+msgid "Add New Event"
+msgstr "Neues Event hinzufügen"
+
+#: ayt_events.php:111 ayt_events.php:165
+msgid "All Events"
+msgstr "Alle Events"
+
+#: ayt_events.php:964
+msgid "Black"
+msgstr "Schwarz"
+
+#: ayt_events.php:961
+msgid "Blue"
+msgstr "Blau"
+
+#: ayt_events.php:443 ayt_events.php:977
+msgid "Book Now"
+msgstr "Absenden"
+
+#: ayt_events.php:38 ayt_events.php:39
+msgid "Booked Events"
+msgstr "Gebuchte Events"
+
+#: ayt_events.php:933
+msgid "City"
+msgstr "Stadt"
+
+#: ayt_events.php:274
+msgid "Date"
+msgstr "Datum"
+
+#: ayt_events.php:112 ayt_events.php:166
+msgid "Edit Event"
+msgstr "Event bearbeiten"
+
+#: ayt_events.php:901
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+#: ayt_events.php:524
+msgid "Email match verify successfully"
+msgstr "Überprüfung der E-Mail erfolgreich."
+
+#: ayt_events.php:934
+msgid "Enter City"
+msgstr "Stadt eingeben"
+
+#: ayt_events.php:902
+msgid "Enter email"
+msgstr "E-Mail eingeben"
+
+#: ayt_events.php:929
+msgid "Enter Street"
+msgstr "Straße eingeben"
+
+#: ayt_events.php:940
+msgid "Enter Zipcode"
+msgstr "Postleitzahl eingeben"
+
+#: ayt_events.php:109 ayt_events.php:163
+msgid "Event"
+msgstr "Event"
+
+#: ayt_events.php:121
+msgid "Event Archives"
+msgstr ""
+
+#: ayt_events.php:122
+msgid "Event Attributes"
+msgstr ""
+
+#: ayt_events.php:573
+msgid "Event booked successfully"
+msgstr "Erfolgreich gesendet. Du erhältst in Kürze eine Bestätigungs-Mail."
+
+#: ayt_events.php:134 ayt_events.php:180
+msgid "Event Link"
+msgstr ""
+
+#: ayt_events.php:130
+msgid "Event published privately."
+msgstr ""
+
+#: ayt_events.php:129
+msgid "Event published."
+msgstr ""
+
+#: ayt_events.php:131
+msgid "Event reverted to draft."
+msgstr ""
+
+#: ayt_events.php:132
+msgid "Event scheduled."
+msgstr ""
+
+#: ayt_events.php:133
+msgid "Event updated."
+msgstr ""
+
+#: ayt_events.php:108 ayt_events.php:110
+msgid "Events"
+msgstr ""
+
+#: ayt_events.php:162 ayt_events.php:164
+msgid "Events category"
+msgstr ""
+
+#: ayt_events.php:128 ayt_events.php:178
+msgid "Events list"
+msgstr ""
+
+#: ayt_events.php:127 ayt_events.php:177
+msgid "Events list navigation"
+msgstr ""
+
+#. Name of the plugin
+msgid "Events Newsletter"
+msgstr ""
+
+#: ayt_events.php:202
+msgid "Events TimeSlote"
+msgstr ""
+
+#: ayt_events.php:176
+msgid "Filter by event"
+msgstr ""
+
+#: ayt_events.php:126
+msgid "Filter events by date"
+msgstr ""
+
+#: ayt_events.php:125
+msgid "Filter events list"
+msgstr ""
+
+#: ayt_events.php:949
+msgctxt "Hattest du schon einmal ein Google Pixel?"
+msgid "Have you ever owned a Google Pixel?"
+msgstr "Hattest du schon einmal ein Google Pixel?"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://p8ls.de"
+msgstr ""
+
+#: ayt_events.php:314
+msgid "ID/Password"
+msgstr "ID/Passwort"
+
+#: ayt_events.php:927
+msgid ""
+"If you want to receive a Pixel Launch Show Kit, please enter your address "
+"data here now* *Only while stocks last."
+msgstr ""
+"<b>(Optional)</b> Wenn Du ein Pixel Launch Show Kit erhalten möchtest, gib "
+"bitte jetzt hier deine Adressdaten ein.</br><p style=\"font-size:12px;\">"
+"(Nur solange der Vorrat reicht).</p>"
+
+#: ayt_events.php:123
+msgid "Insert into event"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kartik"
+msgstr "Gabriel"
+
+#: ayt_events.php:228
+msgid "limitation"
+msgstr ""
+
+#: ayt_events.php:335
+msgid "Meeting URL"
+msgstr "Meeting Link"
+
+#: ayt_events.php:116
+msgid "New Event"
+msgstr ""
+
+#: ayt_events.php:170
+msgid "New Event Name"
+msgstr ""
+
+#: ayt_events.php:953
+msgid "No"
+msgstr "Nein"
+
+#: ayt_events.php:175
+msgid "No events"
+msgstr ""
+
+#: ayt_events.php:119 ayt_events.php:174
+msgid "No events found"
+msgstr ""
+
+#: ayt_events.php:120
+msgid "No events found in Trash"
+msgstr ""
+
+#: ayt_events.php:171
+msgid "Parent Event"
+msgstr ""
+
+#: ayt_events.php:117 ayt_events.php:172
+msgid "Parent Event:"
+msgstr ""
+
+#: ayt_events.php:903
+msgid "Please enter only registered subscribed email id."
+msgstr "Bitte nutze die E-Mail, die du für die Registrierung genutzt hast."
+
+#: ayt_events.php:575
+msgid "Please enter valid details"
+msgstr "Bitte gib gültige Daten ein"
+
+#: ayt_events.php:962
+msgid "Red"
+msgstr "Rot"
+
+#: ayt_events.php:118 ayt_events.php:173
+msgid "Search Events"
+msgstr "Events suchen"
+
+#: ayt_events.php:906
+msgid "Select Date"
+msgstr "Datum wählen"
+
+#: ayt_events.php:921
+msgid "Select Time"
+msgstr "Zeit wählen"
+
+#: ayt_events.php:928
+msgid "Street + number"
+msgstr "Straße + Hausnummer"
+
+#: ayt_events.php:527 ayt_events.php:578
+msgid "The email ID does not match."
+msgstr ""
+"E-Mail nicht erkannt. Bitte nutze die E-Mail, die du für die Registrierung "
+"genutzt hast."
+
+#: ayt_events.php:293
+msgid "Time"
+msgstr "Zeit"
+
+#: ayt_events.php:206
+msgid "TimeSlote"
+msgstr "Zeitfenster"
+
+#: ayt_events.php:168
+msgid "Update Event"
+msgstr ""
+
+#: ayt_events.php:124
+msgid "Uploaded to this event"
+msgstr ""
+
+#: ayt_events.php:113 ayt_events.php:167
+msgid "View Event"
+msgstr "Event ansehen"
+
+#: ayt_events.php:114
+msgid "View Events"
+msgstr "Events ansehen"
+
+#: ayt_events.php:944 ayt_events.php:945
+msgctxt "Was ist dein Lieblingsessen"
+msgid "What is your favorite food"
+msgstr "Was ist dein Lieblingsessen?"
+
+#: ayt_events.php:958
+msgctxt "Was ist deine Lieblingsfarbe?"
+msgid "What is your favorite color?"
+msgstr "Was ist deine Lieblingsfarbe?"
+
+#: ayt_events.php:963
+msgid "White"
+msgstr "Weiß"
+
+#: ayt_events.php:952
+msgid "Yes"
+msgstr "Ja"
+
+#: ayt_events.php:582
+msgid "You have already booked this Event data updated"
+msgstr "Du hast dich bereits angemeldet."
+
+#: ayt_events.php:939
+msgid "Zip code"
+msgstr "Postleitzahl"
+
+#: ayt_events.php:179
+msgid "← Go to events"
+msgstr "← Zurück zu den Events"

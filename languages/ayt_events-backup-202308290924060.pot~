@@ -1,0 +1,299 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Events Newsletter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-29 09:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3\n"
+"X-Domain: ayt_events"
+
+#: ayt_events.php:848
+msgid "-Select Date-"
+msgstr ""
+
+#: ayt_events.php:616
+msgid "-Select event-"
+msgstr ""
+
+#: ayt_events.php:863
+msgid "-Select time-"
+msgstr ""
+
+#: ayt_events.php:583
+msgid "-Select-"
+msgstr ""
+
+#: ayt_events.php:175
+msgid "A link to a event"
+msgstr ""
+
+#: ayt_events.php:129
+msgid "A link to a event."
+msgstr ""
+
+#. Description of the plugin
+msgid "a plugin to create [EventsNewsletter]"
+msgstr ""
+
+#: ayt_events.php:109 ayt_events.php:163
+msgid "Add New Event"
+msgstr ""
+
+#: ayt_events.php:105 ayt_events.php:159
+msgid "All Events"
+msgstr ""
+
+#: ayt_events.php:437 ayt_events.php:888
+msgid "Book Now"
+msgstr ""
+
+#: ayt_events.php:38 ayt_events.php:39
+msgid "Booked Events"
+msgstr ""
+
+#: ayt_events.php:873
+msgid "City"
+msgstr ""
+
+#: ayt_events.php:268
+msgid "Date"
+msgstr ""
+
+#: ayt_events.php:106 ayt_events.php:160
+msgid "Edit Event"
+msgstr ""
+
+#: ayt_events.php:841
+msgid "Email address"
+msgstr ""
+
+#: ayt_events.php:509
+msgid "Email match verify successfully"
+msgstr ""
+
+#: ayt_events.php:874
+msgid "Enter City"
+msgstr ""
+
+#: ayt_events.php:842
+msgid "Enter email"
+msgstr ""
+
+#: ayt_events.php:869
+msgid "Enter Street"
+msgstr ""
+
+#: ayt_events.php:880
+msgid "Enter Zipcode"
+msgstr ""
+
+#: ayt_events.php:103 ayt_events.php:157
+msgid "Event"
+msgstr ""
+
+#: ayt_events.php:115
+msgid "Event Archives"
+msgstr ""
+
+#: ayt_events.php:116
+msgid "Event Attributes"
+msgstr ""
+
+#: ayt_events.php:550
+msgid "Event booked successfully"
+msgstr ""
+
+#: ayt_events.php:128 ayt_events.php:174
+msgid "Event Link"
+msgstr ""
+
+#: ayt_events.php:124
+msgid "Event published privately."
+msgstr ""
+
+#: ayt_events.php:123
+msgid "Event published."
+msgstr ""
+
+#: ayt_events.php:125
+msgid "Event reverted to draft."
+msgstr ""
+
+#: ayt_events.php:126
+msgid "Event scheduled."
+msgstr ""
+
+#: ayt_events.php:127
+msgid "Event updated."
+msgstr ""
+
+#: ayt_events.php:102 ayt_events.php:104
+msgid "Events"
+msgstr ""
+
+#: ayt_events.php:156 ayt_events.php:158
+msgid "Events category"
+msgstr ""
+
+#: ayt_events.php:122 ayt_events.php:172
+msgid "Events list"
+msgstr ""
+
+#: ayt_events.php:121 ayt_events.php:171
+msgid "Events list navigation"
+msgstr ""
+
+#. Name of the plugin
+msgid "Events Newsletter"
+msgstr ""
+
+#: ayt_events.php:196
+msgid "Events TimeSlote"
+msgstr ""
+
+#: ayt_events.php:170
+msgid "Filter by event"
+msgstr ""
+
+#: ayt_events.php:120
+msgid "Filter events by date"
+msgstr ""
+
+#: ayt_events.php:119
+msgid "Filter events list"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://p8ls.de"
+msgstr ""
+
+#: ayt_events.php:308
+msgid "ID/Password"
+msgstr ""
+
+#: ayt_events.php:867
+msgid ""
+"If you want to receive a Pixel Launch Show Kit, please enter your address "
+"data here now* *Only while stocks last."
+msgstr ""
+
+#: ayt_events.php:117
+msgid "Insert into event"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kartik"
+msgstr ""
+
+#: ayt_events.php:222
+msgid "limitation"
+msgstr ""
+
+#: ayt_events.php:329
+msgid "Meeting URL"
+msgstr ""
+
+#: ayt_events.php:110
+msgid "New Event"
+msgstr ""
+
+#: ayt_events.php:164
+msgid "New Event Name"
+msgstr ""
+
+#: ayt_events.php:169
+msgid "No events"
+msgstr ""
+
+#: ayt_events.php:113 ayt_events.php:168
+msgid "No events found"
+msgstr ""
+
+#: ayt_events.php:114
+msgid "No events found in Trash"
+msgstr ""
+
+#: ayt_events.php:165
+msgid "Parent Event"
+msgstr ""
+
+#: ayt_events.php:111 ayt_events.php:166
+msgid "Parent Event:"
+msgstr ""
+
+#: ayt_events.php:843
+msgid "Please enter only registered subscribed email id."
+msgstr ""
+
+#: ayt_events.php:552
+msgid "Please enter valid details"
+msgstr ""
+
+#: ayt_events.php:112 ayt_events.php:167
+msgid "Search Events"
+msgstr ""
+
+#: ayt_events.php:846
+msgid "Select Date"
+msgstr ""
+
+#: ayt_events.php:861
+msgid "Select Time"
+msgstr ""
+
+#: ayt_events.php:868
+msgid "Street + number"
+msgstr ""
+
+#: ayt_events.php:512 ayt_events.php:555
+msgid "The email ID does not match."
+msgstr ""
+
+#: ayt_events.php:287
+msgid "Time"
+msgstr ""
+
+#: ayt_events.php:200
+msgid "TimeSlote"
+msgstr ""
+
+#: ayt_events.php:162
+msgid "Update Event"
+msgstr ""
+
+#: ayt_events.php:118
+msgid "Uploaded to this event"
+msgstr ""
+
+#: ayt_events.php:107 ayt_events.php:161
+msgid "View Event"
+msgstr ""
+
+#: ayt_events.php:108
+msgid "View Events"
+msgstr ""
+
+#: ayt_events.php:559
+msgid "You have already booked this Event data updated"
+msgstr ""
+
+#: ayt_events.php:879
+msgid "Zip code"
+msgstr ""
+
+#: ayt_events.php:173
+msgid "← Go to events"
+msgstr ""
+
+msgid "New message"
+msgstr ""
